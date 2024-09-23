@@ -32,6 +32,7 @@
 
 
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Vikramadtya)](https://github.com/Vikramadtya/github-profile-trophy) -->
 
 <p align="center">  
   <a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vikramadtya&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>  
@@ -39,4 +40,5 @@
 <p align="center">
   <img src="https://u8views.com/api/v1/github/profiles/86847191/views/day-week-month-total-count.svg" alt="GitHub Streak" />
 </p>
+
 
