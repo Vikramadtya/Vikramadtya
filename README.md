@@ -20,9 +20,7 @@
 
 - To know more about me checkout my [portfolio](https://www.vikramaditya-singh.in/) 😃
 - To read my latest piece on a tech topic checkout my [blog](https://www.neuralcook.com/) 🤔
-- My notes 😌 on 
-  - 📖 [algorithms](https://private-26.gitbook.io/algorithmic-pattern/) 
-  - 📖 [design Pattern](https://private-26.gitbook.io/design-pattern/) 
+- My notes 📖 on  [algorithms](https://private-26.gitbook.io/algorithmic-pattern/) and [design Pattern](https://private-26.gitbook.io/design-pattern/) 😌
 
 
 
